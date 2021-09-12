@@ -14,16 +14,16 @@ const c: IConfig = {
   showGithub: false,
 
   // 您的网站地址，有利于SEO
-  homeUrl: 'https://www.jixiaokang.com/nav',
+  homeUrl: 'https://www.oooa.ga',
 
   // 网站标题
-  title: '发现导航 - 精选实用导航网站',
+  title: 'Jung',
 
   // 网站描述
-  description: '发现导航 - 精选实用导航网站',
+  description: '个人导航网站',
 
   // 网站关键字
-  keywords: '导航,社区站点,实用工具,学习资源,node.js',
+  keywords: '导航,实用工具,学习资源,node.js',
 
   // 默认主题: Light | Sim | Side | App | Shortcut
   theme: 'Sim',

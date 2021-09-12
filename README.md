@@ -146,15 +146,3 @@ yarn start
 yarn build
 ```
 
-
-
-## 贡献
-
-
-## 支持
-
-您可以请作者喝杯咖啡，继续战斗下去（请备注Github名字）~
-
-> 开发不易,您的鼓励会让我走的更远,一分也是情一分也是爱❤️
-
-![UpeRIA.jpg](https://s1.ax1x.com/2020/07/05/UpeRIA.jpg)

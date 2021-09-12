@@ -52,7 +52,7 @@ const c: IConfig = {
     posterImageUrls: [
       'https://z3.ax1x.com/2021/09/12/49f1xJ.jpg'
     ],
-    description: '收录了 <b>${total}</b> 个优质网站， 督促自己学习'
+    description: '放这<b>${total}</b> 个学习网站在这儿吃灰？还不滚去学习！'
   }
 }
 

@@ -50,7 +50,7 @@ const c: IConfig = {
   simThemeConfig: {
     // 海报图
     posterImageUrls: [
-      'https://z3.ax1x.com/2021/08/04/fAVS8x.jpg'
+      'https://z3.ax1x.com/2021/09/12/49WhuR.jpg'
     ],
     description: '收录了 <b>${total}</b> 个优质网站， 督促自己学习'
   }

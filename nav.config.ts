@@ -30,7 +30,7 @@ const c: IConfig = {
 
   // 网站底部内容, 版权信息、备案号, 可以是 HTML
   footerContent: `
-    <div style="font-weight: bold;">放\${total}个学习网站在这儿吃灰？还不滚去搬砖？</div>
+    <div style="font-weight: bold;">\${total}个吃灰网站</div>
     <div>Copyright © 2018-2021 JUNG, All Rights Reserved</div>
   `,
 
@@ -52,7 +52,7 @@ const c: IConfig = {
     posterImageUrls: [
       'https://z3.ax1x.com/2021/09/12/49f1xJ.jpg'
     ],
-    description: '<b>世界上只有一种真正的英雄主义，那就是看清生活的真相之后，依然热爱生活 ————  罗曼·罗兰'
+    description: '<b>世界上只有一种真正的英雄主义，那就是看清生活的真相之后，依然热爱生活   ———— 罗曼·罗兰</b>'
     // description: '放这<b>${total}</b> 个学习网站在这儿吃灰？还不滚去学习！'
   }
 }
